@@ -130,7 +130,7 @@ For purging all interfaces and ip_allocations you can also set the `purge_interf
 
 1. [Usage](#usage)
 2. [Parameters](#parameters)
-3. [Configuration using hiera](#configuring-using-hiera)
+3. [Configuration using hiera](#Configuration using hiera)
 4. [Bonding](#bonding)
 
 ### Usage
